@@ -1,6 +1,6 @@
 #This is a test
-#pleas work
-#i beg you
+#Testing the interpreter
+#Simple python file
 x = 25
 y = 30
 if x < y:
